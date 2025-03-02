@@ -1,1 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Temporary files
 uploads/
+tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
